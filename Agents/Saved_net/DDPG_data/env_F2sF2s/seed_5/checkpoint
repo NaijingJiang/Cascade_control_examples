@@ -1,0 +1,3 @@
+model_checkpoint_path: "last_net"
+all_model_checkpoint_paths: "iteration234reward89"
+all_model_checkpoint_paths: "last_net"
